@@ -1,7 +1,3 @@
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/136184080?v=4"  />
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=mazenatef5510@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <a href="www.linkedin.com/in/mazen-atlam-801788267" target="_blank">
