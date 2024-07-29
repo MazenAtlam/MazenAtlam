@@ -9,7 +9,7 @@
   <a href="http://mazenatlam.tech/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Profile&label=&color=8a2123&logoColor=&labelColor=#&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="www.linkedin.com/in/mazen-atlam-801788267" target="_blank">
+  <a href="https://www.linkedin.com/in/mazen-atlam-801788267" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=#&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
